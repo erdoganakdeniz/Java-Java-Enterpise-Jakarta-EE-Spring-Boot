@@ -1,10 +1,10 @@
 # Java Fundamentals, Desktop, Web, Database
-Class & Bean
+ #  Class & Bean
   - Class, Object, Instance
   - Field, Method, Constructor, This
   - Encapsulation, Private, Public, Protected
   - Bean, Set & Get
-Collections & Composition
+  # Collections & Composition
   - Arrays, For & Enhanced For
   - Collections, List, Map
   - Relations, One-To-One, One-To-Many, Many-To-Many
