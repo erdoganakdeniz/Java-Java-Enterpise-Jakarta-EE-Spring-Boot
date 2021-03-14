@@ -10,7 +10,7 @@
   - Relations, One-To-One, One-To-Many, Many-To-Many
   - Association & Composition
   # Inheritance & Polymorphism
-    - Inheritance, Super, Override, Overload
-    - Abstract Class & Abstract Method
-    - Interface & Implementation
-    - Polymorphism
+  - Inheritance, Super, Override, Overload
+  - Abstract Class & Abstract Method
+  - Interface & Implementation
+  - Polymorphism
